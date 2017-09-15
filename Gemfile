@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'sinatra', '>=1.0'
+gem 'sinatra-contrib'
+gem 'rake'
+gem 'data_mapper'
+gem 'dm_core'
+gem 'dm-sqlite-adapter'
+gem 'dm-timestmps'
+gem 'dm-validations'
+gem 'dm-aggregates'
+gem 'dm-migrations'
